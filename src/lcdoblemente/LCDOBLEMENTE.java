@@ -5,7 +5,7 @@
  */
 package lcdoblemente;
 
-/**
+/**Mi ejemplo
  *
  * @author christom
  */
